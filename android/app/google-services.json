@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "683977170445",
+    "project_id": "chat-5f886",
+    "storage_bucket": "chat-5f886.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683977170445:android:4108a4a3c61b349080bf44",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683977170445-gi3lf9d8miudfi3kf02a2h0260gvi8kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4KmM1VhTGTdkfxdD-ct6yaoVzUL60bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683977170445-gi3lf9d8miudfi3kf02a2h0260gvi8kq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683977170445-2v371g64bdt9ju4u5rv0jeqncrff0bi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartsolution.chat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683977170445:android:13b9b8adabfe5b4380bf44",
+        "android_client_info": {
+          "package_name": "com.smartsolution.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683977170445-gi3lf9d8miudfi3kf02a2h0260gvi8kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4KmM1VhTGTdkfxdD-ct6yaoVzUL60bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683977170445-gi3lf9d8miudfi3kf02a2h0260gvi8kq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683977170445-2v371g64bdt9ju4u5rv0jeqncrff0bi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartsolution.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
